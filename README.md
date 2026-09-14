@@ -30,9 +30,9 @@ readback-based inference at ~10 fps regardless of model size. See *Fallback engi
 bun add https://github.com/Quickom2023/litert-virtual-background-dist/releases/download/v0.3.0/litert-virtual-background-0.3.0.tgz @litertjs/core
 ```
 
-Or with npm / pnpm / yarn - the tarball is a plain package, no build step runs on install. Pin the version by
-using the URL of that release; [the releases page](https://github.com/Quickom2023/litert-virtual-background-dist/releases)
-lists them all.
+Or with npm / pnpm / yarn - the tarball is a plain package and no build step runs on install. Pin a version by
+using that release's URL;
+[the releases page](https://github.com/Quickom2023/litert-virtual-background-dist/releases) lists them all.
 
 Framework recipe (Vite + Vue/React, config and troubleshooting): [docs/vite-vue.md](docs/vite-vue.md).
 
